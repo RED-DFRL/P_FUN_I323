@@ -35,9 +35,9 @@ namespace P_FUN_PTL
             // formsPlot1
             // 
             formsPlot1.DisplayScale = 1F;
-            formsPlot1.Location = new Point(36, 27);
+            formsPlot1.Location = new Point(12, 84);
             formsPlot1.Name = "formsPlot1";
-            formsPlot1.Size = new Size(637, 308);
+            formsPlot1.Size = new Size(657, 348);
             formsPlot1.TabIndex = 0;
             formsPlot1.Load += formsPlot1_Load;
             // 
